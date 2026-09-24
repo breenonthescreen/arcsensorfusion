@@ -7,8 +7,6 @@ Ryan Breen
 
 ════════════════════════════════════════════════════════ QUICK NUMBERS ════════════════════════════════════════════════════════
 
-so this isn't just words:
-
 500Hz filter update rate 10Hz gps correction rate 6-state EKF (pos + vel, NED frame) 4 sensors fused (imu, mag, gps, baro model) 20 col CSV telemetry, 500 lines/sec 2 versions (matlab/simulink + c++/teensy) ~1400 lines across the filter, sim, and live HUD
 
 ════════════════════════════════════════════════════════ WHY TWO VERSIONS ════════════════════════════════════════════════════════
